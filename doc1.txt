@@ -12,3 +12,5 @@ desde local master
 mi codigo desde pycharm
 
 otro codigo
+
+desd github
