@@ -7,4 +7,4 @@ cambios master local
 cambios para primera rama
 siguen cambios para la primera rama
 
-cambios desde github
+desde local master
