@@ -8,3 +8,5 @@ cambios para primera rama
 siguen cambios para la primera rama
 
 desde local master
+
+mi codigo desde pycharm
